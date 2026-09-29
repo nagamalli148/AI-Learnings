@@ -1,0 +1,91 @@
+MVP
+Architecture blue print
+CRUD Operations
+
+Breaking Down PRD into individual pages 
+
+Decomposition - Ground Rules of Vibe Coding
+
+Knowledge section 
+
+
+Standard Coding
+
+Describe a recipe->AI Cooks it-> You taste-test it
+TDD = Test driven development
+
+Describe taste first-?Give AI a tasting machine-AI Cooks until it's perfect 
+
+DRY Principle
+
+Features : Plan vs Build
+
+Complaince - 
+
+Lovable features : 
+
+###
+-> Category is not getting detected for a new task 
+-> Are you sure want to sign out feature 
+-> After sign out - app should return to home page instead 
+Tasks are still showing after sign out (return home - is redirecting to page app )
+
+### What's the use of sections 
+Gentle Nudge 
+How you feel
+when no use log in 
+
+
+### Five is enough - not making sense rest both of cards are fine
+
+### Wording not suitable :
+Ready when you are
+Five minutes now. Better next session.
+
+### Pick something small.
+
+Display min duration instead of all mandate 5mins 
+Make customisable timer for resets 
+
+Add Logout functionality 
+Phone Saathi 
+
+Reset suggestions are same for every burnout mood
+
+I want to put the real articals here instead of existing : 
+
+
+Articles to read : 
+
+https://idronline.org/article/education/the-rising-cost-of-learning-in-india/
+https://ruralindiaonline.org/hi/library/resource/india-employment-report-2024-youth-employment-education-and-skills/#section02
+
+=======================================
+Add Task 
+
+eliminate numbering tasks
+	
+	
+Database Tables :
+user 
+Tasks
+
+
+In search of AI courses over linkedin 
+
+found out with the word of vibe coding course which helped to understand the importance of fundementals and 
+how breaking down the features is important while building an MVP using vibe coding.
+
+Starting from planning PRD, Architecture, SDLC rules , Decomposition - Ground Rules of Vibe Coding, TDD, Code practices
+Complaince  	
+
+What i liked is the different and way of conveying with a simple example : 
+
+Describe a recipe->AI Cooks it-> You taste-> test it
+
+Describe taste first-?Give AI a tasting machine-AI Cooks until it's perfect  
+
+Explrong new features of Lovable feels so clear in understanding web application development with AI 
+
+Here's the demo : 
+

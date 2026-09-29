@@ -1,0 +1,19 @@
+AI - 1960
+
+ML - Math + Stats
+Deep Learning - Neural Network - CNN & RNN - Transformers -> LLM's
+for eg: cam scanner
+
+Classification - predefined labels classify
+Regression - predicting the next element
+
+https://webwhiteboard.com/
+
+Y=mx+c 
+m,c are variables
+m-slope, c - intersection
+=====================================
+Supervised and Unsupervised Learning
+
+
+

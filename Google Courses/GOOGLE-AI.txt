@@ -1,0 +1,183 @@
+LLMs - pattern matching 
+Prediction Engines
+
+
+To predict
+-lang&knowledge
+-facts & reasoning patterns 
+
+176 billion parameters -
+100 billion neurons in a brain
+
+Hallucination - predicting 
+BIAS - vast texts , learns from internet data be it gender,profession
+
+for eg :
+screen resume for software - those who work
+top talent may miss 
+
+Prompt Injection
+- critical security vulnerability
+- sensitive data (for eg: confidential roadmap-can leak to competitors)
+
+ALWAYS VERIFY THE OUTPUT
+
+Gemini versions :
+Flash (Speed, Helper) vs Pro (reasoning,programming,strategist)
+
+Google AI Studio : 
+Built-in code editor optimised for AI 
+deployment
+
+Notebook LM :
+RAG - Retrieval-Augumented Generation
+A Technique that improves AI by connecting large language modules to external knowledge
+
+Citations : sources that's taking from
+
+Gemini - Cloud
+Gemma : Open models 
+On-device 
+
+Imagen: 2k Resoution
+
+Google Docs AI:
+- Creating Doc 
+Sheets AI: 
+Analyse,visualise
+
+slides :
+Meet : AI Notes
+
+PTCF Framework : 
+Persona - Who the AI Should be sets expertise level,vocabulary,
+Task - What the AI should do (create,analyse,summarise,draft) 
+Context - Background Information
+Format - How you want the output (bullets,table,summary)
+
+
+Advanced Prompting Techniques : 
+
+Zero-Shot : Giving a task with zero examples - AI Uses training knowledge (what it has trained)
+
+One-Shot : Provide one example to show the pattern 
+Few-Shot : 2-10 examples for complex patterns 
+Group bug report by serverity 
+
+Chain of Thought (COT) 
+Think step-by-step 
+Use Case : complex reasoning,math,multi-step-analysis 
+
+
+Bonus: Meta-Prompting 
+Using AI to write better prompts
+======================================================
+P : Act as a marketing analyst and technical writer
+T : Write a description
+C : New product launch "Rely+"
+F  : Linkedin adaptable and more reach
+
+
+Structural Prompting : 
+AIDA : Attention, Interest, Desire, Action 
+PAS : Problem, Agitate, Solution
+
+Session - 3: 
+Nano Banana
+
+1. STYLE 
+2. SUBJECT
+3. COMPOSITION
+4. LIGHTING
+
+STYLE: Flat vector, minimalist (not photorealistic,not 3D)
+Subject: Three specific icons with clear meanings 
+Composition : Horizonatal
+
+
+Strcutured validation :
+Decision Points 
+
+Definding brand voice (ptcf) 
+
+proven copywriting framework should you include in your prompt to ensure the output is structurally persuasive?
+AIDA: Attention, Interest, Desire, Action
+
+Week-1 :
+PTCF Framework - talking with AI 
+Research insights
+Creative Studio
+
+Week 2 
+Goal 
+1. AI Studio - 
+Unstructured Text 
+
+System Instructions : 
+Empathetic
+
+Grounding -> Factual correctness (stable internet tool) 
+Connectng AI to Reality
+
+Two Types : 
+Search Grounding Broad Knowledge 
+URL Context 
+
+Temparature : 
+High Temp - wild,creative,unpredictable 
+Low Temp - accuracy, stable  (Low creativity)
+
+Word Range Matters : 
+p=1->full range | p=0.5 -> only most likely words 
+
+
+Session - 5 : 
+
+-> Identify repetitve task 
+-> Go to gemini, act as a product manager to give PRD doc
+
+
+===================================================
+
+Hallucinations can be caused by a number of factors, like when the model is not trained on enough
+
+differences between artificial intelligence and machine learning and supervised and unsupervised learning
+
+Two of the most common classes of machine learning models are 
+unsupervised 
+Unsupervised problems are all about discovery, 
+about looking at the raw data and seeing if it naturally falls into groups.
+
+supervised ML models.
+Labeled data is data that comes with a tag, like a name, a type, or a number.
+In supervised learning, the model learns from past examples to predict future values.
+
+=============
+semi-supervised learning
+
+A generative AI model could be trained on a dataset of images of cats and then used to generate new images of cats. A discriminative AI model could be trained on a dataset of images of cats and dogs and then used to classify new images as either cats or dogs.
+
+The language foundation models include chat, text, and code.
+
+
+The Vision foundation models include Stable Diffusion, which have been shown to be effective at generating high quality images from text descriptions.
+
+If you're looking for foundation models, Vertex AI offers a Model Garden that includes foundation models.
+
+ multimodal AI 
+ 
+ 
+ 
+ In the process of exploring modules from a course by google skills 
+ Module - 1: Introduction to Generative AI
+ feel like we need to have a basic understanding on few of items,
+ sharing it here : 
+ 
+ Generative AI : 
+ Supervised and Unsupervised Machine Learning Models :
+ Deep Learning : 
+ Identifying Gen AI or Not : 
+ Transformers 
+ Hallucination
+ Gen AI Model Types 
+ 
